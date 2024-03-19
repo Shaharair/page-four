@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.we_writte{
+    background-color: #E5F5FF;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 128px;
+}
+.we_text h3{
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 128px;
+}
+.we_writte h4{
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.we_writte p{
+    color: #29313D;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.we_writte img{
+    margin-left: 130px;
+    padding-bottom: 30px;
+}

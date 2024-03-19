@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#text{
+    background-color: #FBF3F0;
+    margin-top: -100px;
+}
+.text_main{
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+.text_text h6{
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+.text_text h3{
+    color: black;
+    font-size: 44px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    border-right: 2px solid #29313D;
+}
+.text_text p{
+    color: #29313D;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 50px;
+}

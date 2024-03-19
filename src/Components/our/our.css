@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#img{
+    background-color: #FBF3F0;
+}
+.img_main{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-top: 128px;
+    margin-bottom: 128px;
+}
+.img_text{
+    padding-top: 50px;
+}
+.img_text h3{
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+.img_text p{
+    color: #29313D;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+.img_img img{
+    width: 100%;
+}
